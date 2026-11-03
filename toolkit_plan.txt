@@ -1,0 +1,52 @@
+PLP PYTHON WEEK 8 FINAL PROJECT
+
+PROJECT TITLE: My Python Toolkit
+
+1. TOOLS SELECTED
+
+Tool 1: Simple Calculator
+The calculator allows users to add, subtract, multiply, and divide two numbers.
+Concepts: Variables, user input, conditionals, arithmetic operators, and f-strings.
+
+Tool 2: To-Do List
+The to-do list allows users to add tasks, view saved tasks, and remove tasks while the program is running.
+Concepts: Lists, loops, conditionals, and f-strings.
+
+Tool 3: Number Checker
+The number checker tells users whether a number is positive, negative, or zero.
+Concepts: Variables, input, conditionals, and f-strings.
+
+Tool 4: Countdown
+The countdown tool counts backwards from a number entered by the user until it reaches zero.
+Concepts: Loops, variables, input, and f-strings.
+
+2. EXACT MENU TEXT
+
+====================================
+       WELCOME TO MY PYTHON TOOLKIT
+====================================
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Countdown
+5. Quit
+====================================
+Enter your choice (1-5):
+
+3. PROGRAM CONCEPTS
+
+- Variables: Store numbers, choices, and tasks.
+- Input: Collect information from users.
+- Output: Display friendly messages and results.
+- Conditionals: Select tools and make decisions.
+- Loops: Keep the menu running and perform countdowns.
+- Lists: Store and update to-do tasks.
+- F-strings: Display clear messages using stored values.
+
+4. EXPECTED PROGRAM BEHAVIOUR
+
+The program displays a welcome message and menu.
+Users select a tool by entering its number.
+After a tool finishes, the menu appears again.
+Invalid choices are handled with a friendly message.
+The program ends when the user selects Quit.
